@@ -2,7 +2,7 @@ BattleBit Lifesteal Gamemode
 
 ### Join Public Server
 
-![image](https://github.com/DasIschBims/BattleBitLifeSteal/assets/46683337/5d7a69a8-558b-4a72-a4ca-691d8e7175f9)
+![image](https://github.com/DasIschBims/BattleBitLifeSteal/assets/46683337/8062fc17-ecf5-4ad1-8c82-0ea47cb449c7)
 
 ### Updates
 
